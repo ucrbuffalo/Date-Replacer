@@ -168,5 +168,5 @@ See the [`LICENSE.txt`](./LICENSE.txt) file for the complete license text.
 
 Built by: **ucrbuffalo**  
 Workflow: **Date Replacer**  
-Bundle ID: `com.cameronphillips.datereplacer`
+Bundle ID: `com.cameronphillips.datereplacer`  
 Powered by: Alfred + AppleScript
