@@ -166,6 +166,6 @@ See the [`LICENSE.txt`](./LICENSE.txt) file for the complete license text.
 
 ## Credits
 
-Built by: **Cameron Phillips**  
+Built by: **ucrbuffalo**  
 Workflow: **Date Replacer**  
 Powered by: Alfred + AppleScript
