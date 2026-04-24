@@ -19,7 +19,7 @@ Supports:
 
 ## Installation
 
-1. Download the workflow file: `Date Replacer.alfredworkflow`
+1. Download the workflow file: `Date Replacer.alfredworkflow` from the releases page.
 2. Double-click to import into Alfred.
 3. Open **Alfred Preferences → Workflows → Date Replacer**
 4. (Optional) Configure the output date format:
